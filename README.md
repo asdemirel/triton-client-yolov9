@@ -16,6 +16,8 @@ pip3 install -r requirements.txt
 ### Prerequisite 
 Start Triton Inference Server
 
+### Running Triton Inference Server Client
+
 ```bash
 
 python3 client.py image --model images/test.jpg --half
